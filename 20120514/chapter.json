@@ -1,0 +1,34 @@
+{
+	"id": "chapter-one",
+	"title": "Moderne Webentwicklung oder: Warum JavaScript die Zukunft ist.",
+	"description": "description.md",
+	"location": "Hochschule Bremen, ZIMT, Flughafenallee 10, 28199 Bremen",
+	"data": "14. Mai 2012",
+
+	"topics": [
+		{
+			"type": "Vortrag",
+			"title": "JavaScript - Eine missverstandene Programmiersprache",
+			"speaker": {
+				"name": {
+					"first": "Malte",
+					"last": "Legenhausen",
+					"contact": "http://twitter.com/mlegenhausen"
+				}
+			},
+			"description": "talk-one.md"
+		},
+		{
+			"type": "Vortrag",
+			"title": "Moderne Frontendentwicklung mit Backbone.js",
+			"speaker": {
+				"name": {
+					"first": "André",
+					"last": "König",
+					"contact": "http://twitter.com/notion"
+				}
+			},
+			"description": "talk-two.md"
+		}
+	]
+}

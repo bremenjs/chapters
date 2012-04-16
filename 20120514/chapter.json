@@ -12,9 +12,9 @@
 			"speaker": {
 				"name": {
 					"first": "Malte",
-					"last": "Legenhausen",
-					"contact": "http://twitter.com/mlegenhausen"
-				}
+					"last": "Legenhausen"
+				},
+				"contact": "http://twitter.com/mlegenhausen"
 			},
 			"description": "talk-one.md"
 		},
@@ -24,9 +24,9 @@
 			"speaker": {
 				"name": {
 					"first": "André",
-					"last": "König",
-					"contact": "http://twitter.com/notion"
-				}
+					"last": "König"
+				},
+				"contact": "http://twitter.com/notion"
 			},
 			"description": "talk-two.md"
 		}

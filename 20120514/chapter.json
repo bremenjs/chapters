@@ -8,25 +8,25 @@
 	"topics": [
 		{
 			"type": "Vortrag",
-			"title": "JavaScript - Eine missverstandene Programmiersprache",
-			"speaker": {
-				"name": {
-					"first": "Malte",
-					"last": "Legenhausen"
-				},
-				"contact": "http://twitter.com/mlegenhausen"
-			},
-			"description": "talk-one.md"
-		},
-		{
-			"type": "Vortrag",
-			"title": "Moderne Frontendentwicklung mit Backbone.js",
+			"title": "Hier ist sie, die “new AwesomeJavaScriptUserGroup();” für Bremen.",
 			"speaker": {
 				"name": {
 					"first": "André",
 					"last": "König"
 				},
-				"contact": "http://twitter.com/notion"
+				"contact": "http://profile.lochkartenstanzer.de"
+			},
+			"description": "talk-one.md"
+		},
+		{
+			"type": "Vortrag",
+			"title": "LiveCoding: Backendentwicklung mit Node.js - Eine Einführung",
+			"speaker": {
+				"name": {
+					"first": "Malte",
+					"last": "Legenhausen"
+				},
+				"contact": "https://plus.google.com/u/0/106733191200400095142/about"
 			},
 			"description": "talk-two.md"
 		}

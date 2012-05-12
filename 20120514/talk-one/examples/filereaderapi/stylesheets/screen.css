@@ -1,0 +1,22 @@
+body {
+	background:#eaeae6;
+	color:#5e5e5c;
+	font-family:sans-serif;
+}
+
+#wrapper {
+	margin:0 auto;
+	width:960px;
+}
+
+header {
+	margin:80px 0 70px;
+}
+
+header h1 {
+	font-size:100%;
+}
+
+header h2 {
+	font-size:80%;
+}

@@ -8,7 +8,7 @@
 	"topics": [
 		{
 			"type": "Vortrag",
-			"title": "Hier ist sie, die “new AwesomeJavaScriptUserGroup();” für Bremen.",
+			"title": "Moderne Frontendentwicklung mit JavaScript",
 			"speaker": {
 				"name": {
 					"first": "André",

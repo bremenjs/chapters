@@ -1,0 +1,57 @@
+/*!
+ * Bremen.js
+ *
+ * Copyright(c) 2012 Bremen, Germany
+ *
+ * Author:
+ *
+ *     André König <andre.koenig@gmail.com>
+ *
+ * MIT Licensed
+ *
+ */
+body {
+	background:#eaeae6;
+	color:#5e5e5c;
+	font-family:sans-serif;
+	text-shadow:0 1px 0 #fff;
+}
+
+#wrapper {
+	margin:0 auto;
+	width:960px;
+}
+
+header {
+	margin:40px 0 30px;
+}
+
+header h1 {
+	font-size:150%;
+}
+
+header h2 {
+	font-size:100%;
+	margin-bottom:45px;
+}
+
+header h3 {
+	opacity:.8;
+}
+
+a,
+a:visited {
+	color:#585757;
+}
+
+ul li {
+	margin:10px 0;
+}
+
+footer {
+	bottom:0;
+	font-size:80%;
+	position:fixed;
+	text-align:center;
+	width:100%;
+}

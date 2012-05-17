@@ -16,7 +16,24 @@
 				},
 				"contact": "http://profile.lochkartenstanzer.de"
 			},
-			"description": "talk-one.md"
+			"description": "talk-one.md",
+			"assets": [
+                {
+                	"name": "Folien",
+                	"type": "slides",
+                	"url": "http://goo.gl/RMbvx"
+                },
+                {
+                	"name": "Video",
+                	"type": "video",
+                	"url": "http://www.youtube.com/user/bremenjs"
+                },
+                {
+                	"name": "Beispiele",
+                	"type": "examples",
+                	"url": "/20120514/talk-one/examples/"
+                }
+			]
 		},
 		{
 			"type": "Vortrag",
@@ -28,7 +45,19 @@
 				},
 				"contact": "https://plus.google.com/u/0/106733191200400095142/about"
 			},
-			"description": "talk-two.md"
+			"description": "talk-two.md",
+			"assets": [
+			    {
+			       	"name": "Folien",
+			       	"type": "slides",
+			       	"url": "http://goo.gl/hDPBA"
+			    },
+				{
+					"name": "Video",
+					"type": "video",
+					"url": "http://www.youtube.com/user/bremenjs"
+				}
+			]
 		}
 	]
 }

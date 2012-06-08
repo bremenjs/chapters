@@ -1,0 +1,5 @@
+In diesem Talk wird Jannes das Programmieren von Chrome-Extensions erklären und vorstellen. Jeder kennt sie, viele benutzen sie, doch nicht alle wissen, wie man sie schreibt. Dabei sind diese Erweiterungen für Google Chrome sehr einfach zu erstellen, da sie auf den allseits bekannten Web-Technologien HTML, CSS und (natürlich) JavaScript aufbauen.
+
+Hattet ihr schon seit langer Zeit eine Idee für ein neues Feature in eurem Browser, das es noch nicht gibt? Dann seid ihr hier genau an der richtigen Adresse. In dem Vortrag wird zunächst kurz die Geschichte von Erweiterungen für den Chrome-Browser erläutert, anschließend wird ausgeführt, wie Chrome-Extensions aufgebaut sind. Danach wird erklärt welche Funktionen bisher durch eine JavaScript-API zur Verfügung gestellt werden. Im Zuge dessen wird leider auch deutlich, welche Limitierungen es für eure Ideen gibt. Doch mit Kreativität lassen sich viele Probleme lösen.
+
+Abschließend wird es ein kleines Live-Coding geben, in dem eine neue Erweiterung erstellt wird. Wenn vom Publikum gewünscht, kann auch noch gemeinsam analysiert werden, wie gewisse Features von bestehenden Erweiterungen funktionieren.

@@ -1,0 +1,23 @@
+{
+	"id": "20120618",
+	"title": "",
+	"description": "description.md",
+	"location": "",
+	"date": "Montag, 18. Juni 2012 - 19:00 Uhr",
+
+	"topics": [
+		{
+			"type": "Vortrag",
+			"title": "Chrome-Erweiterungen? Kann ich das auch?",
+			"speaker": {
+				"name": {
+					"first": "Jannes",
+					"last": "Meyer"
+				},
+				"contact": "https://plus.google.com/102422743437036990993/about"
+			},
+			"description": "talk-two.md",
+			"assets": []
+		}
+	]
+}

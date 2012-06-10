@@ -1,0 +1,22 @@
+{
+	"id": "20120618",
+	"title": "",
+	"description": "description.md",
+	"location": "Hochschule Bremen, ZIMT, Flughafenallee 10, 28199 Bremen - Raum 123",
+	"date": "Montag, 18. Juni 2012 - 19:00 Uhr",
+
+	"topics": [
+		{
+			"type": "Vortrag",
+			"title": "NoSQL - Not just \"No SQL\"",
+			"speaker": {
+				"name": {
+					"first": "Malte",
+					"last": "Legenhausen"
+				},
+				"contact": "https://plus.google.com/u/0/106733191200400095142/about"
+			},
+			"description": "talk-one.md"
+		}
+	]
+}

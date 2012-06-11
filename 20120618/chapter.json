@@ -16,9 +16,8 @@
 				},
 				"contact": "https://plus.google.com/102422743437036990993/about"
 			},
-			"description": "talk-one.md",
+			"description": "talk-one.md"
 		},
-
 		{
 			"type": "Vortrag",
 			"title": "NoSQL - Not just \"no SQL\"",

@@ -8,6 +8,19 @@
 	"topics": [
 		{
 			"type": "Vortrag",
+			"title": "Chrome-Erweiterungen? Kann ich das auch?",
+			"speaker": {
+				"name": {
+					"first": "Jannes",
+					"last": "Meyer"
+				},
+				"contact": "https://plus.google.com/102422743437036990993/about"
+			},
+			"description": "talk-one.md",
+		},
+
+		{
+			"type": "Vortrag",
 			"title": "NoSQL - Not just \"no SQL\"",
 			"speaker": {
 				"name": {

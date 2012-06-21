@@ -14,9 +14,16 @@
 					"first": "Jannes",
 					"last": "Meyer"
 				},
-				"contact": "https://plus.google.com/102422743437036990993/about"
+				"contact": "https://plus.google.com/102422743437036990993/about",
 			},
-			"description": "talk-one.md"
+			"description": "talk-one.md",
+			"assets": [
+				{
+			        "name": "Folien",
+			      	"type": "slides",
+			      	"url": "http://goo.gl/LUnpf"
+			    }
+			]
 		},
 		{
 			"type": "Vortrag",
@@ -28,7 +35,14 @@
 				},
 				"contact": "https://plus.google.com/u/0/106733191200400095142/about"
 			},
-			"description": "talk-two.md"
+			"description": "talk-two.md",
+			"assets": [
+				{
+			        "name": "Folien",
+			      	"type": "slides",
+			      	"url": "http://goo.gl/hUlOm"
+			    }
+			]
 		}
 	]
 }

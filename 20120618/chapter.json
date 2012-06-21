@@ -1,48 +1,47 @@
 {
-	"id": "20120618",
-	"title": "Bunte neue Webwelt. Ein Browser und eine Couch. Relax!",
-	"description": "description.md",
-	"location": "Hochschule Bremen, ZIMT, Flughafenallee 10, 28199 Bremen - Raum 122",
-	"date": "Montag, 18. Juni 2012 - 19:00 Uhr",
-
-	"topics": [
-		{
-			"type": "Vortrag",
-			"title": "Chrome-Erweiterungen? Kann ich das auch?",
-			"speaker": {
-				"name": {
-					"first": "Jannes",
-					"last": "Meyer"
-				},
-				"contact": "https://plus.google.com/102422743437036990993/about",
-			},
-			"description": "talk-one.md",
-			"assets": [
-				{
-			        "name": "Folien",
-			      	"type": "slides",
-			      	"url": "http://goo.gl/LUnpf"
-			    }
-			]
-		},
-		{
-			"type": "Vortrag",
-			"title": "NoSQL - Not just no SQL",
-			"speaker": {
-				"name": {
-					"first": "Malte",
-					"last": "Legenhausen"
-				},
-				"contact": "https://plus.google.com/u/0/106733191200400095142/about"
-			},
-			"description": "talk-two.md",
-			"assets": [
-				{
-			        "name": "Folien",
-			      	"type": "slides",
-			      	"url": "http://goo.gl/hUlOm"
-			    }
-			]
-		}
-	]
+    "id": "20120618",
+    "title": "Bunte neue Webwelt. Ein Browser und eine Couch. Relax!",
+    "description": "description.md",
+    "location": "Hochschule Bremen, ZIMT, Flughafenallee 10, 28199 Bremen - Raum 122",
+    "date": "Montag, 18. Juni 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Chrome-Erweiterungen? Kann ich das auch?",
+            "speaker": {
+                "name": {
+                    "first": "Jannes",
+                    "last": "Meyer"
+                },
+                "contact": "https://plus.google.com/102422743437036990993/about"
+            },
+            "description": "talk-one.md",
+            "assets": [
+                {
+                    "name": "Folien",
+                    "type": "slides",
+                    "url": "http://goo.gl/LUnpf"
+                }
+            ]
+        },
+        {
+            "type": "Vortrag",
+            "title": "NoSQL - Not just no SQL",
+            "speaker": {
+                "name": {
+                    "first": "Malte",
+                    "last": "Legenhausen"
+                },
+                "contact": "https://plus.google.com/u/0/106733191200400095142/about"
+            },
+            "description": "talk-two.md",
+            "assets": [
+                {
+                    "name": "Folien",
+                    "type": "slides",
+                    "url": "http://goo.gl/hUlOm"
+                }
+            ]
+        }
+    ]
 }

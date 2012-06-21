@@ -21,6 +21,11 @@
                     "name": "Folien",
                     "type": "slides",
                     "url": "http://goo.gl/LUnpf"
+                },
+                {
+                	"name": "Beispielcode",
+                	"type": "examples",
+                	"url": "/20120618/talk-one/example.zip"
                 }
             ]
         },

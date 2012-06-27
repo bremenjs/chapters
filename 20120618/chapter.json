@@ -18,6 +18,11 @@
             "description": "talk-one.md",
             "assets": [
                 {
+                    "name": "Video",
+                    "type": "video",
+                    "url": "http://www.youtube.com/watch?v=4x0OkEPkjx4&feature=plcp#t=15m12s"
+                },
+                {
                     "name": "Folien",
                     "type": "slides",
                     "url": "http://goo.gl/LUnpf"
@@ -41,6 +46,11 @@
             },
             "description": "talk-two.md",
             "assets": [
+                {
+                    "name": "Video",
+                    "type": "video",
+                    "url": "http://www.youtube.com/watch?v=4x0OkEPkjx4&feature=plcp#t=1h39m20s"
+                },
                 {
                     "name": "Folien",
                     "type": "slides",

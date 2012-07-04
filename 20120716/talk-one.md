@@ -1,0 +1,3 @@
+In diesem Talk werden Lukas und André Euch in die Welt der strukturierten Frontend-Entwicklung mit [Backbone.js](http://backbonejs.org) heranführen. Backbone.js bietet endlich die Möglichkeiten, die Entwickler auch aus der "Enterprise-Welt" gewohnt sind. Sprich: MVC in Perfektion mit einfacher Anbindung an bestehende Backend-Systeme über AJAX.
+
+Wir werden in dem Talk mit einer Anwendung im Stil der oben angesprochenen "2000 Zeilen Datei" beginnen, die, von der Code-Qualität her, wahrscheinlich schon jeder JavaScript-Entwickler einmal gesehen bzw. selbst entwickelt hat. Im weiteren Verlauf soll ausgehend von dieser App eine mit Hilfe von [Require.js](http://requirejs.org) modularisierte und durch Backbone.js strukturierte Anwendung herausgearbeitet werden. Live!

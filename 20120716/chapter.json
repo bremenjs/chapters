@@ -1,0 +1,30 @@
+{
+    "id": "20120716",
+    "title": "Kampf dem Spaghetti-Monster!",
+    "description": "description.md",
+    "location": "Hochschule Bremen, ZIMT, Flughafenallee 10, 28199 Bremen - Raum 122",
+    "date": "Montag, 16. Juni 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Strukturierte Frontend-Entwicklung mit Backbone.js",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Lukas",
+                        "last": "Magedanz"
+                    },
+                    "contact": "https://plus.google.com/103818405603204491663/about"
+                },
+                {
+                    "name": {
+                        "first": "André",
+                        "last": "König"
+                    },
+                    "contact": "https://plus.google.com/105066655811382416959/about"
+                }
+            ],
+            "description": "talk-one.md"
+        }
+    ]
+}

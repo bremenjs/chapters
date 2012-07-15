@@ -36,6 +36,7 @@ module.exports = function (app, database) {
         var calory = req.body;
 
         calory.id = uuid.v4();
+        calory.date = new Date();
 
         database.set(calory.id, calory, function () {
             res.json(calory);

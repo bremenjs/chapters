@@ -31,7 +31,7 @@ require([
     'app'
 ],
 function (CaloryCounterApp) {
-
+console.log("1");
     // The main container in which everything will be rendered.
     var $main = $('#main');
 

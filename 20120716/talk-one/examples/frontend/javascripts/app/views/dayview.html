@@ -1,0 +1,21 @@
+<div id="day" class="view">
+	<a class="add" href="#">+ Neuer Eintrag</a>
+
+	<form style="display:none;">
+		<input type="text" name="product" placeholder="Was hast Du gegessen?">
+		<input type="text" name="count" placeholder="Anzahl kcal?">
+
+		<input type="submit" value="Speichern">
+	</form>
+
+	<ul class="calories">
+		<% if (calories.length > 0) { %>
+			<% _.each(calories, function (calory) { %>
+				<li><%= calory.product %> <span><%= calory.count %> kcal</span></li>
+			<% }); %>
+		<% } else { %>
+			<p>Wow, Du hast heute noch nichts gegessen...</p>
+		<% } %>
+	</ul>
+	<p class="summary">Gesamt: <span><%= amount %></span> kcal</p>
+</div>

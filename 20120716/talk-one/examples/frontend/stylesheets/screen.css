@@ -35,6 +35,7 @@ input {
 
 .view {
 	background:#fff;
+	box-shadow: 0px 0px 3px 3px #dfdfdf;
 	margin:0 auto;
 	padding:4% 5% 2%;
 	position:relative;

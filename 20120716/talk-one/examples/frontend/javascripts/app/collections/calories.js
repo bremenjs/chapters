@@ -12,8 +12,8 @@ define([
 
 		model: Calory,
 
-		comparator : function () {
-			return (new Date(model.get('date')).getTime());
+		comparator : function (model) {
+			return -(new Date(model.get('date')).getTime());
 		}
 	});
 

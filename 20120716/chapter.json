@@ -24,7 +24,24 @@
                     "contact": "https://plus.google.com/105066655811382416959/about"
                 }
             ],
-            "description": "talk-one.md"
+            "description": "talk-one.md",
+            "assets": [
+                {
+                    "name": "Video",
+                    "type": "video",
+                    "url": "http://www.youtube.com/watch?v=b-eIMpzNb0I#t=18m13s"
+                },
+                {
+                    "name": "Folien",
+                    "type": "slides",
+                    "url": "http://goo.gl/075FT"
+                },
+                {
+                    "name": "Beispielproject (Front- und Backend)",
+                    "type": "examples",
+                    "url": "/20120716/talk-one/examples.zip"
+                }
+            ]
         }
     ]
 }

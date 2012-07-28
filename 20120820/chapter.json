@@ -1,0 +1,23 @@
+{
+    "id": "20120820",
+    "title": "Faster, Better, Testable Development",
+    "description": "description.md",
+    "location": "Informationsgesellschaft Bremen,  Bornstr. 12-13, 28195 Bremen",
+    "date": "Montag, 20. August 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "HTML für dynamische Webseiten - AngularJS",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Malte",
+                        "last": "Legenhausen"
+                    },
+                    "contact": "https://plus.google.com/106733191200400095142/about"
+                }
+            ],
+            "description": "talk-one.md"
+        }
+    ]
+}

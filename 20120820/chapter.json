@@ -1,8 +1,8 @@
 {
     "id": "20120820",
-    "title": "Gerade oder winkelig?",
+    "title": "Workflow für die mobile Webentwicklung und HTML von einem anderen Stern.",
     "description": "description.md",
-    "location": "Informationsgesellschaft Bremen,  Bornstr. 12-13, 28195 Bremen",
+    "location": "InformationsGesellschaft mbH, Bornstr. 12-13, 28195 Bremen",
     "date": "Montag, 20. August 2012 - 19:00 Uhr",
     "topics": [
         {
@@ -28,7 +28,7 @@
                         "first": "Florian",
                         "last": "Uhlig"
                     },
-                    "contact": "https://plus.google.com/u/0/112898190514765164004/posts"
+                    "contact": "https://plus.google.com/u/0/112898190514765164004/about"
                 }
             ],
             "description": "talk-two.md"

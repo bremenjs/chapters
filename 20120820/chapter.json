@@ -18,6 +18,20 @@
                 }
             ],
             "description": "talk-one.md"
+        },
+        {
+            "type": "Vortrag",
+            "title": "Mobile Web Workflow - Das Web in Deiner Hand",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Florian",
+                        "last": "Uhlig"
+                    },
+                    "contact": "https://plus.google.com/u/0/112898190514765164004/posts"
+                }
+            ],
+            "description": "talk-two.md"
         }
     ]
 }

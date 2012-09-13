@@ -1,0 +1,37 @@
+{
+    "id": "20120820",
+    "title": "Workflow für die mobile Webentwicklung und HTML von einem anderen Stern.",
+    "description": "description.md",
+    "location": "InformationsGesellschaft mbH, Bornstr. 12-13, 28195 Bremen",
+    "date": "Montag, 20. August 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "HTML für dynamische Webseiten - AngularJS",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Malte",
+                        "last": "Legenhausen"
+                    },
+                    "contact": "https://plus.google.com/106733191200400095142/about"
+                }
+            ],
+            "description": "talk-one.md"
+        },
+        {
+            "type": "Vortrag",
+            "title": "Mobile Web Workflow - Das Web in Deiner Hand",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Florian",
+                        "last": "Uhlig"
+                    },
+                    "contact": "https://plus.google.com/u/0/112898190514765164004/about"
+                }
+            ],
+            "description": "talk-two.md"
+        }
+    ]
+}

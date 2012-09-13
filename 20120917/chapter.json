@@ -1,0 +1,23 @@
+﻿{
+    "id": "20120917",
+    "title": "Faster, Better, Testable Development",
+    "description": "description.md",
+    "location": "Hochschule Bremen, Flughafenallee 10, 28199 Bremen",
+    "date": "Montag, 17. September 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "grunt.js - task ALL the things!",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Alexander",
+                        "last": "Plavinski"
+                    },
+                    "contact": "https://twitter.com/cilice"
+                }
+            ],
+            "description": "talk-one.md"
+        }
+    ]
+}

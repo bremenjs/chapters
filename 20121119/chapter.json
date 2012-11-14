@@ -1,0 +1,44 @@
+﻿{
+    "id": "20120917",
+    "title": "JavaScript als OS, ParallelArrays, was kommt als dann?",
+    "description": "description.md",
+    "location": "InformationsGesellschaft mbH, Bornstr. 12-13, 28195 Bremen",
+    "date": "Montag, 19. November 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Firefox OS",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Malte",
+                        "last": "Legenhausen"
+                    },
+                    "contact": "https://plus.google.com/106733191200400095142"
+                },{
+                    "name": {
+                        "first": "Lukas",
+                        "last": "Magedanz"
+                    },
+                    "contact": "https://plus.google.com/103818405603204491663"
+                }
+            ],
+            "description": "talk-one.md"
+        },{
+            "type": "Vortrag",
+            "title": "ParallelArrays",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Andreas",
+                        "last": "Bergmeier"
+                    },
+                    "contact": "https://plus.google.com/u/0/118100927975625735392"
+                }
+            ],
+            "description": "talk-two.md"
+        }
+    ]
+}
+
+

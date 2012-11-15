@@ -1,3 +1,3 @@
 ﻿[Firefox OS](http://www.mozilla.org/en-US/firefoxos/) ist ein Linux-basiertes Betriebssystem für Smartphones und Tablet-Computer, das von [Mozilla](http://www.mozilla.org/en-US/) entwickelt wird. Ziel ist es, die Benutzeroberfläche und Apps komplett mit standardisierten Web-Technologien (HTML, CSS und JavaScript) zu realisieren und damit Nutzern aber auch Programmierern größtmögliche Offenheit und Kompatibilität zu bieten.
 
-Das erste Smartphone mit Firefox OS soll im ersten Quartal 2013 in den Handel kommen. Inwiefern es jetzt schon für Webentwickler von Interesse sein könnte soll in und nach diesem Talk besprochen werden.
+Das erste Smartphone mit Firefox OS soll im ersten Quartal 2013 in den Handel kommen. Inwiefern das Thema jetzt schon für Webentwickler von Interesse ist soll in und nach diesem Talk besprochen werden.

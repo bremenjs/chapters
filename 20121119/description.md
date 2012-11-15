@@ -1,1 +1,1 @@
-TODO WRITE ME
+Nach einmonatiger Pause findet am kommenden Montag, den 19. November 2012, das sechste Chapter der Bremen.js statt. Der Veranstaltungsort wird erneut das Büro der [InformationsGesellschaft mbH](http://www.informationsgesellschaft.com/) sein, wofür wir uns an dieser Stelle sehr herzlich bedanken möchten!

@@ -1,0 +1,1 @@
+﻿ParallelArrays kommen nach Javascript und mit ihnen parallele Verarbeitung, Vektorisierung und GPU-Beschleunigung. Der Vortrag wird eine kurze Einführung in das Thema und die Implementation geben und eine anschließende Diskussion über eine mögliche Zukunft für High-Performance Javascript anstoßen.﻿

@@ -1,0 +1,42 @@
+﻿{
+    "id": "20120917",
+    "title": "Hat JavaScript das Zeug zum Betriebssystem?",
+    "description": "description.md",
+    "location": "InformationsGesellschaft mbH, Bornstr. 12-13, 28195 Bremen",
+    "date": "Montag, 19. November 2012 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Firefox OS",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Malte",
+                        "last": "Legenhausen"
+                    },
+                    "contact": "https://plus.google.com/106733191200400095142/about"
+                },{
+                    "name": {
+                        "first": "Lukas",
+                        "last": "Magedanz"
+                    },
+                    "contact": "https://plus.google.com/103818405603204491663/about"
+                }
+            ],
+            "description": "talk-one.md"
+        },{
+            "type": "Vortrag",
+            "title": "ParallelArrays",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Andreas",
+                        "last": "Bergmeier"
+                    },
+                    "contact": "https://plus.google.com/118100927975625735392/about"
+                }
+            ],
+            "description": "talk-two.md"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "20121210",
+    "title": "DRY, please!",
+    "description": "description.md",
+    "location": "Hackerspace Bremen e.V., Bornstr. 14/15, 28195 Bremen",
+    "date": "Montag, 14. Januar 2013 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Google Maps JavaScript API",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Lukas",
+                        "last": "Magedanz"
+                    },
+                    "contact": "https://plus.google.com/103818405603204491663/about"
+                }
+            ],
+            "description": "talk-one.md"
+        }
+    ]
+}

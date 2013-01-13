@@ -1,3 +1,5 @@
-Wir freuen uns sehr Euch mitteilen zu können, dass der Veranstaltungsort dieses Mal wieder vom [Hackerspace Bremen e.V.](http://www.hackerspace-bremen.de/) bereitgestellt wird, wofür wir uns an dieser Stelle bedanken möchten!
-Eine Wegbeschreibung zum Hackerspace findet Ihr [hier](http://www.hackerspace-bremen.de/index.php?s=locations). Es ist etwas versteckt aber wir werden versuchen es etwas auszuschildern.
-Und wir suchen noch Speaker für einen zweiten Talk, also bei Interesse bitte bei [Malte](https://plus.google.com/106733191200400095142) oder [Lukas](https://plus.google.com/103818405603204491663) melden!
+Ein neues Jahr hat begonnen und somit auch ein spannendes neues JavaScript-Jahr. Das nächste Treffen im Januar findet wieder im [Hackerspace Bremen e.V.](http://www.hackerspace-bremen.de/) statt. Dafür bedanken wir uns wieder sehr. Eine Wegbeschreibung zum Hackerspace gibt es [hier](http://www.hackerspace-bremen.de/index.php?s=locations). 
+
+Dieses mal werfen wir einen Blick in die weite Welt. Lukas Magedanz wird uns zeigen wie mit Hilfe verschiedener Map Services, geobasierte Anwendungen entwickelt werden können.
+
+Wie immer sind wieder alle eingeladen vorbei zu schauen.

@@ -1,3 +1,6 @@
-Wir freuen uns sehr Euch mitteilen zu können, dass der Veranstaltungsort dieses Mal wieder vom [Hackerspace Bremen e.V.](http://www.hackerspace-bremen.de/) bereitgestellt wird, wofür wir uns an dieser Stelle bedanken möchten!
-Eine Wegbeschreibung zum Hackerspace findet Ihr [hier](http://www.hackerspace-bremen.de/index.php?s=locations). Es ist etwas versteckt aber wir werden versuchen es etwas auszuschildern.
-Und wir suchen noch Speaker für einen zweiten Talk, also bei Interesse bitte bei [Malte](https://plus.google.com/106733191200400095142) oder [Lukas](https://plus.google.com/103818405603204491663) melden!
+Wieder im [Hackerspace Bremen e.V.](http://www.hackerspace-bremen.de/). Danke Sehr.Eine Wegbeschreibung zum Hackerspace gibt es [hier](http://www.hackerspace-bremen.de/index.php?s=locations).
+
+Feedback willkommen, daher großartiges "ES next Special".
+
+Und eine Arbeitspräsentation. Weil wir jeden Monat versuchen, andere dazu zu animieren, es sowas aber noch nie gegeben hat.
+

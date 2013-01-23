@@ -1,0 +1,1 @@
+Für dieses Chapter gibt es noch keine Vorträge. Bei Interesse bitte bei [Malte](https://plus.google.com/106733191200400095142) oder [Lukas](https://plus.google.com/103818405603204491663) melden.

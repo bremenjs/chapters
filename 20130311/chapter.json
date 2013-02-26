@@ -1,0 +1,21 @@
+{
+    "id": "20130311",
+    "title": "Multiplattform Desktop-Anwendungen mit JavaScript",
+    "description": "description.md",
+    "location": "Hackerspace Bremen e.V., Bornstr. 14/15, 28195 Bremen",
+    "date": "Montag, 11. März 2013 - 19:00 Uhr",
+    "topics": [
+        {
+            "type": "Vortrag",
+            "title": "Best of both worlds - Desktop-Anwendungen mit 'node-webkit'",
+            "speaker": {
+                "name": {
+                    "first": "André",
+                    "last": "König"
+                },
+                "contact": "http://profile.lochkartenstanzer.de"
+            },
+            "description": "talk-one.md"
+        }
+    ]
+}

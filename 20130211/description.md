@@ -1,1 +1,0 @@
-Diese Chapter fällt leider kurzfristig aus! Wer sich trotzdem mit uns unterhalten will, wir sind trotzdem im Hackerspace anwesend.

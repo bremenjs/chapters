@@ -1,20 +1,22 @@
 {
     "id": "20130311",
-    "title": "Multiplattform Desktop-Anwendungen mit JavaScript",
+    "title": "GruntJS Update",
     "description": "description.md",
     "location": "Hackerspace Bremen e.V., Bornstr. 14/15, 28195 Bremen",
     "date": "Montag, 11. März 2013 - 19:00 Uhr",
     "topics": [
         {
             "type": "Vortrag",
-            "title": "Best of both worlds - Desktop-Anwendungen mit 'node-webkit'",
-            "speaker": {
-                "name": {
-                    "first": "André",
-                    "last": "König"
-                },
-                "contact": "http://profile.lochkartenstanzer.de"
-            },
+            "title": "Grunt 0.4",
+            "speaker": [
+                {
+                    "name": {
+                        "first": "Alexander",
+                        "last": "Plavinski"
+                    },
+                    "contact": "https://twitter.com/cilice"
+                }
+            ],
             "description": "talk-one.md"
         }
     ]
